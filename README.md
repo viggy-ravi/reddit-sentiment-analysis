@@ -1,4 +1,4 @@
-# reddit_sentiment_analysis
+# reddit-sentiment-analysis
 
 Written by: Vignesh Ravindranath
 
